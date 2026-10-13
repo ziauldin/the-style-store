@@ -1,6 +1,6 @@
 # 🛍️ The Style Store
 
-The frontend for a Pakistani boutique that sells handmade fashion and home textiles. It's built with Next.js, TypeScript, and Tailwind CSS. It has a filterable shop, product pages with galleries, a cart and wishlist saved in the browser, and a cash-on-delivery checkout. This is a frontend prototype: products come from local data files, and the checkout shows a simulated confirmation without sending an order or taking payment.
+The frontend for a Pakistani boutique that sells handmade fashion and home textiles. It's built with Next.js, TypeScript, and Tailwind CSS. It has a filterable shop, product pages with galleries, a cart and wishlist saved in the browser, and a checkout with cash on delivery or bank transfer. This is a frontend prototype: products come from local data files, and the checkout shows a simulated confirmation without sending an order or taking payment.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -15,7 +15,7 @@ The frontend for a Pakistani boutique that sells handmade fashion and home texti
 - 🔎 Shop page with filters, sorting, and a search dialog
 - 🖼️ Product pages with image gallery, badges, ratings, and pricing
 - 🛒 Cart drawer and ❤️ wishlist, both kept in `localStorage`
-- 💵 Checkout form with cash on delivery (simulated confirmation)
+- 💵 Checkout form with cash on delivery or bank transfer (simulated confirmation)
 - 📄 About, contact, shipping, return, privacy, and terms pages
 - 📱 Responsive layout with mobile navigation and Framer Motion animations
 
